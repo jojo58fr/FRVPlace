@@ -1,0 +1,12 @@
+{
+    "EXPRESS_SESSION_SECRET": "qzOOb0OHKHqWW3DD0JBt",
+    "http_port": 80,
+    "https_port": 443,
+    "cors_options": {
+        "origin": "*"
+    },
+
+    "login":{
+        "password_hash": ["ml6e6*n$sù", "@(9&s"]
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "colors": [
+        {
+            "name": "Rouge foncé",
+            "hexColor": "#59131a"
+        },
+        {
+            "name": "Marron",
+            "hexColor": "#6d001a"
+        },
+        {
+            "name": "Cramoisi",
+            "hexColor": "#be0039"
+        },
+        {
+            "name": "Rouge orangé",
+            "hexColor": "#ff4500"
+        },
+        {
+            "name": "Orange",
+            "hexColor": "#ffa800"
+        },
+        {
+            "name": "Jaune",
+            "hexColor": "#ffd635"
+        },
+        {
+            "name": "Jaune clair",
+            "hexColor": "#fff8b8"
+        },
+        {
+            "name": "Vert émeraude",
+            "hexColor": "#00a368"
+        },
+        {
+            "name": "Vert clair",
+            "hexColor": "#00cc78"
+        },
+        {
+            "name": "Vert citron",
+            "hexColor": "#7eed56"
+        },
+        {
+            "name": "Vert océan",
+            "hexColor": "#00756f"
+        },
+        {
+            "name": "Cyan",
+            "hexColor": "#009eaa"
+        },
+        {
+            "name": "Turquoise",
+            "hexColor": "#00ccc0"
+        },
+        {
+            "name": "Bleu royal",
+            "hexColor": "#2450a4"
+        },
+        {
+            "name": "Bleu ciel",
+            "hexColor": "#3690ea"
+        },
+        {
+            "name": "Cyan clair",
+            "hexColor": "#51e9f4"
+        },
+        {
+            "name": "Violet foncé",
+            "hexColor": "#493ac1"
+        },
+        {
+            "name": "Lavande",
+            "hexColor": "#6a5cff"
+        },
+        {
+            "name": "Bleu lavande",
+            "hexColor": "#94b3ff"
+        },
+        {
+            "name": "Prune",
+            "hexColor": "#811e9f"
+        },
+        {
+            "name": "Mauve",
+            "hexColor": "#b44ac0"
+        },
+        {
+            "name": "Rose lavande",
+            "hexColor": "#e4abff"
+        },
+        {
+            "name": "Magenta",
+            "hexColor": "#de107f"
+        },
+        {
+            "name": "Rose flamant",
+            "hexColor": "#ff3881"
+        },
+        {
+            "name": "Rose",
+            "hexColor": "#ff99aa"
+        },
+        {
+            "name": "Brun",
+            "hexColor": "#6d482f"
+        },
+        {
+            "name": "Brun foncé",
+            "hexColor": "#9c6926"
+        },
+        {
+            "name": "Pêche",
+            "hexColor": "#ffb470"
+        },
+        {
+            "name": "Noir",
+            "hexColor": "#000000"
+        },
+        {
+            "name": "Gris foncé",
+            "hexColor": "#515252"
+        },
+        {
+            "name": "Gris",
+            "hexColor": "#898d90"
+        },
+        {
+            "name": "Gris clair",
+            "hexColor": "#d4d7d9"
+        },
+        {
+            "name": "Blanc",
+            "hexColor": "#ffffff"
+        }
+    ]
+}
